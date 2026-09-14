@@ -4,7 +4,7 @@
 - **NIM**   : 124140015
 - **Kelas** : Pengembangan Aplikasi Web RB
 
-Hosting Github:
+Hosting Github: https://arfaraditya28.github.io/Tugas2PAW_124140015_MuhammadArfaRaditya/
 
 Repository ini berisi tugas pertemuan ke-2 mata kuliah Pengembangan
 Aplikasi Web yang berfokus pada pembuatan halaman web statis
