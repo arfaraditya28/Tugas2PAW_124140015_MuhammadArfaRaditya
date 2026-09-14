@@ -1,5 +1,5 @@
 # Tugas 2 - Pengembangan Aplikasi Web
-## Data Mahasiswa
+## Data
 - **Nama**  : Muhammad Arfa Raditya
 - **NIM**   : 124140015
 - **Kelas** : Pengembangan Aplikasi Web RB
